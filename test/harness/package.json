@@ -15,9 +15,9 @@
     "@modelcontextprotocol/sdk": "^1.26.0",
     "@types/node": "^25.3.3",
     "openai": "^6.17.0",
-    "tsx": "^4.21.0",
+    "tsx": "^4.23.13",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.18",
-    "yaml": "^2.8.2"
+    "vitest": "^4.1.0",
+    "yaml": "^2.9.1"
   }
 }
